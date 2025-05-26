@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://HarendraRathnayaka.github.io/SolarSense",
+  "homepage": "https://harendrarathnayaka.github.io/solarsense/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
