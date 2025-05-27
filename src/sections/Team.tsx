@@ -19,7 +19,7 @@ const Team = () => {
       image: sanjeewi,
       department: 'Department of Information Technology',
       institution: 'Sri Lanka Institute of Information Technology',
-      linkedin: 'https://linkedin.com/in/example1',
+      linkedin: 'https://www.linkedin.com/in/sanjeevi-chandrasiri-6154b319/',
     },
     {
       name: 'Mr. Nelum Amarasena',
@@ -27,7 +27,7 @@ const Team = () => {
       image: nelum,
       department: 'Department of Information Technology',
       institution: 'Sri Lanka Institute of Information Technology',
-      linkedin: 'https://linkedin.com/in/example2',
+      linkedin: 'https://www.linkedin.com/in/nelum-chathuranga-amarasena-703a66176/',
     },
     {
       name: 'Mr. Udara Dissanayake',
@@ -46,7 +46,7 @@ const Team = () => {
       image: navindi,
       department: 'Department of Information Technology',
       institution: 'Sri Lanka Institute of Information Technology',
-      linkedin: 'https://linkedin.com/in/example4',
+      linkedin: 'https://www.linkedin.com/in/supuni-navindi-94333b215/',
     },
     {
       name: 'Perera M.A.V.D',
@@ -54,7 +54,7 @@ const Team = () => {
       image: vimankith,
       department: 'Department of Information Technology',
       institution: 'Sri Lanka Institute of Information Technology',
-      linkedin: 'https://linkedin.com/in/example6',
+      linkedin: 'https://www.linkedin.com/in/vimankith-perera-11b5782a4/',
     },
     {
       name: 'Nayanamudu R.M.H',
@@ -62,7 +62,7 @@ const Team = () => {
       image: harendra,
       department: 'Department of Information Technology',
       institution: 'Sri Lanka Institute of Information Technology',
-      linkedin: 'https://linkedin.com/in/example5',
+      linkedin: 'https://www.linkedin.com/in/harendra-rathnayaka-868564218/',
     },
 
     {
@@ -71,7 +71,7 @@ const Team = () => {
       image: sayuri,
       department: 'Department of Information Technology',
       institution: 'Sri Lanka Institute of Information Technology',
-      linkedin: 'https://linkedin.com/in/example7',
+      linkedin: 'https://www.linkedin.com/in/sayuri-perera-364014219/',
     },
   ];
 
